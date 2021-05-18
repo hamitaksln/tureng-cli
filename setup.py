@@ -11,11 +11,11 @@ classifiers = [
 
 setup(
   name='tureng-cli',
-  version='0.1.0',
+  version='0.1.2',
   description='Tureng CLI',
-  long_description=open('README.md').read(),
+  long_description=open('README.md',encoding='utf-8-sig').read(),
   long_description_content_type="text/markdown",
-  url='',  
+  url='https://github.com/hamitaksln/tureng-cli',  
   author='Abdulhamit Akaslan',
   author_email='hamtaksln@gmail.com',
   license='MIT', 
